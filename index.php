@@ -1,3 +1,5 @@
+<pre>
 <?php
-phpinfo();
+$vars = get_defined_vars();
+print_r($vars);
 ?>
