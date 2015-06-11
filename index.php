@@ -1,3 +1,1 @@
-<?php
-phpinfo();
-?>
+Hello world from BP
